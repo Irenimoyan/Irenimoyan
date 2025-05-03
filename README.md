@@ -29,6 +29,7 @@ This project demonstrates my ability to work in agile work settings.
 
 
 - LinkedIn: www.linkedin.com/in/tom-alli-sheu-062742247
+- X : https://twitter.com/harborlohrey
 
 
 
