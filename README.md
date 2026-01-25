@@ -3,11 +3,11 @@
 
 ## About Me 🚀
 
-I'm a passionate entry-level Frontend Developer with experience in HTML, CSS, and JS. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate junior Frontend Developer with experience in HTML, CSS, JS, and React. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: Frontend languages like HTML, CSS, JS
-- 🔭 Working on: I'm working on a calculator and a counter.
-- 🌍 Languages: HTML, CSS and JAVASCRIPT
+- 🔭 Working on: I'm working on an E-commerce webaite.
+- 🌍 Languages: HTML, CSS, JAVASCRIPT and REACT
 - 📫 How to reach me: You can reach me through my email (Sheutomalli@gmail.com) or WhatsApp: 07087232716
 - ⚡ Fun fact: I pay attention to details, critical thinking, and i can work with agile teammates
 
